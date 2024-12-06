@@ -6,16 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou um desenvolvedor iniciante, constantemente em busca de aprendizado e sempre procurando organizar minhas ideias de forma eficiente.
-    <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social" 
-           target="_blank" 
-      />
-    </a>  
+    Sou um desenvolvedor iniciante, constantemente em busca de aprendizado e sempre procurando organizar minhas ideias de forma eficiente.  
   </p>
   
   <p align="center">
@@ -25,7 +16,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/inquerafael">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
@@ -45,12 +36,7 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/edu.duduribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edududuribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:eduardo.duduribeiro1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
 
 <div align="center">
 
